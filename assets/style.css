@@ -1,0 +1,48 @@
+/* div {
+  border: 1px solid;
+} */
+
+body {
+  background-color: rgb(168, 240, 230);
+  width: 100%;
+  text-align: center;
+  font-family: "Oswald";
+  font-weight: 400;
+  margin: 0%;
+}
+
+.navbar,
+footer {
+  background-color: rgb(14, 78, 216);
+  width: 100%;
+  height: 4.2rem;
+  margin: 0% !important;
+}
+
+#parte-frontal {
+  padding-top: 1rem;
+}
+
+h3{
+  text-transform: capitalize;
+}
+
+#imagenFrente {
+  width: 230px;
+  height: 230px;
+}
+
+h1, h5 {
+  font-family: "Sansita Swashed", cursive;
+  font-weight: 800;
+}
+
+#chartContainer {
+  margin-left: 2rem;
+  height: 300px; 
+  width: 80%;
+}
+
+footer {
+  height: 2rem;
+}
